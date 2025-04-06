@@ -9,6 +9,7 @@ This Python script calculates the **Hamming distance** between two DNA strings o
 The input must be provided in a text file named `dna.txt`, with the following format:
 
 GAGCCTACTAACGGGAT 
+
 CATCGTAATGACGGCCT
 
 Each line represents a DNA string. Both strings **must** be of equal length and contain only the nucleotides: A, T, C, G.
