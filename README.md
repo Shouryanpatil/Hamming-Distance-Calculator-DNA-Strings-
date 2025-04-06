@@ -23,6 +23,7 @@ Each line represents a DNA string. Both strings **must** be of equal length and 
 
 ```bash
 python hamming_distance.py
+```
 
 ---
 
